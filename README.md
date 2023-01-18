@@ -5,9 +5,8 @@
 - 💬 Ask me about **\*NIX Systems, UI/UX design, music theory**
 
 - 📫 How to reach me ?
-	- On discord Marcel **@Mimosa#5180**
+	- On discord **@Marcel Mimosa#5180**
 	- On instagram **@joseph.vidal.du.lac**
-
 
 ### ✉️ Connect with me :
 <p>
