@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm Joseph</h1>
+
 - 🔭 I’m currently student at **Epitech**
 
 - 💬 Ask me about **\*NIX Systems, UI/UX design, music theory**
