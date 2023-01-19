@@ -29,5 +29,3 @@ Toulousan since 1995, I love film photography, designing displays and making fur
 
 [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephVidal&theme=dracula)
 ](https://github.com/anuraghazra/github-readme-stats)
-
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephVidal&show_icons=true&theme=dracula)
