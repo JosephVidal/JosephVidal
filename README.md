@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Joseph</h1>
 
+Toulousan since 1995, I love fil photography, designing displays and making furnitures.
+
 - 🔭 I’m currently student at **Epitech**
 
 - 💬 Ask me about **\*NIX Systems, UI/UX design, music theory**
@@ -14,14 +16,15 @@
 <a href="https://www.instagram.com/joseph.vidal.du.lac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joseph Vidal" height="30" width="40" /></a>
 </p>
 
-
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <p>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="30" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="reactjs" height="30" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" height="30" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" height="30" width="40"/>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="30" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="docker" height="30" width="40"/>
 </p>
+
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephVidal&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
