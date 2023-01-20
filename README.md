@@ -15,7 +15,7 @@ Toulousan since 1995, I love film photography, designing displays and making fur
 	- I'm falconer
 	- I love planes
 
-## Education 👨🏻‍🎓
+## 👨🏻‍🎓 Education :
 
 |	School     | City | Level | Topic |
 |:------------:|:---------------:|:-------------:|---|
