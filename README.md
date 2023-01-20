@@ -2,11 +2,18 @@
 
 Toulousan since 1995, I love film photography, designing displays and making furnitures.
 
-- 🔭 I’m currently student at **Epitech**
+- 🔭 I’m currently studying at **Epitech**
 - 💬 Ask me about **\*NIX Systems, UI/UX design, music theory**
+- 🌱 I’m currently learning :
+	- iOS developpement
+	- Saxophone (alto)
 - 📫 How to reach me ?
 	- On discord **@Marcel Mimosa#5180**
 	- On instagram **@joseph.vidal.du.lac**
+- ⚡ Fun fact :
+	- I play double bass in a symphony orchestra
+	- I'm falconer
+	- I love planes
 
 ## Education 👨🏻‍🎓
 
