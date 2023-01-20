@@ -3,9 +3,7 @@
 Toulousan since 1995, I love film photography, designing displays and making furnitures.
 
 - 🔭 I’m currently student at **Epitech**
-
 - 💬 Ask me about **\*NIX Systems, UI/UX design, music theory**
-
 - 📫 How to reach me ?
 	- On discord **@Marcel Mimosa#5180**
 	- On instagram **@joseph.vidal.du.lac**
@@ -15,8 +13,8 @@ Toulousan since 1995, I love film photography, designing displays and making fur
 |	School     | City | Level | Topic |
 |:------------:|:---------------:|:-------------:|---|
 | EPITECH | Toulouse 🇫🇷	| Bachelor's degree | Information and Technology|
-| EPITECH | Barcelona 🇪🇸| / | Project management in information technology |
-| High shcool of furniture crafts | Revel 🇫🇷 | high school diploma | Cabinet making and wood carving |
+| EPITECH | Barcelona 🇪🇸| / | Buisness management in information technology |
+| High shcool of furniture crafts | Revel 🇫🇷 | High school diploma | Cabinet making and wood carving |
 
 ## ✉️ Connect with me :
 <p>
