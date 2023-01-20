@@ -5,7 +5,7 @@ Toulousan since 1995, I love film photography, designing displays and making fur
 - 🔭 I’m currently studying at **Epitech**
 - 💬 Ask me about **\*NIX Systems, UI/UX design, music theory**
 - 🌱 I’m currently learning :
-	- iOS developpement
+	- iOS development
 	- Saxophone (alto)
 - 📫 How to reach me ?
 	- On discord **@Marcel Mimosa#5180**
@@ -14,6 +14,7 @@ Toulousan since 1995, I love film photography, designing displays and making fur
 	- I play double bass in a symphony orchestra
 	- I'm falconer
 	- I love planes
+	- I develop photos in my bathroom
 
 ## 👨🏻‍🎓 Education :
 
