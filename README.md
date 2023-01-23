@@ -3,7 +3,10 @@
 Toulousan since 1995, I love film photography, designing displays and making furnitures.
 
 - 🔭 I’m currently studying at **Epitech**
-- 💬 Ask me about **\*NIX systems, UI/UX design, music theory**
+- 💬 Ask me about :
+	- \*NIX systems
+	- UI/UX design
+	- Music theory
 - 🌱 I’m currently learning :
 	- iOS development
 	- Saxophone (alto)
