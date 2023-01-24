@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Joseph</h1>
 
-Toulousan since 1995, I love film photography, designing displays and making furnitures.
+Toulousan since 1995, I love film photography, designing displays for my orchestra and making furnitures.
 
 - 🔭 I’m currently studying at **Epitech**
 - 💬 Ask me about :
