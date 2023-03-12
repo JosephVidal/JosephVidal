@@ -13,6 +13,11 @@ Toulousan since 1995, I love film photography, designing displays for my orchest
 - 📫 How to reach me ?
 	- On discord **@Marcel Mimosa#5180**
 	- On instagram **@joseph.vidal.du.lac**
+- ☁️ My dream jobs :
+	- National Geographic photographer
+	- Doublebassist in orchestra
+	- Falconer
+	- Furniture designer
 - ⚡ Fun fact :
 	- I play double bass in a symphony orchestra
 	- I'm falconer
