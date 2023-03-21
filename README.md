@@ -8,7 +8,7 @@ Toulousan since 1995, I love film photography, designing displays for my orchest
 	- UI/UX design
 	- Music theory
 - 🌱 I’m currently learning :
-	- iOS development
+	- Kernel programming
 	- Saxophone (alto)
 - 📫 How to reach me ?
 	- On discord **@Marcel Mimosa#5180**
