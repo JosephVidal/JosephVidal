@@ -28,7 +28,7 @@ Toulousan since 1995, I love film photography, designing displays for my orchest
 
 |	School     | City | Level | Topic |
 |:------------:|:---------------:|:-------------:|---|
-| EPITECH | Barcelona 🇪🇸 | 4th year exchange | Buisness management in information technology |
+| EPITECH | Barcelona 🇪🇸/Paris 🇫🇷 | Master's degree | Buisness management in information technology |
 | EPITECH | Toulouse 🇫🇷 | Bachelor's degree | Information and Technology |
 | High shcool of furniture crafts | Revel 🇫🇷 | High school diploma | Cabinet making and wood carving |
 
