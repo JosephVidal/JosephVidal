@@ -2,7 +2,7 @@
 
 Toulousan since 1995, I love film photography, designing displays for my orchestra and making furniture.
 
-- 🔭 I’m currently software engeneer at **Alten** for **Airbus**
+- 🔭 I’m currently software engeneer at **Alten** on behalf **Airbus**
 - 💬 Ask me about :
 	- \*NIX systems
 	- UI/UX design
