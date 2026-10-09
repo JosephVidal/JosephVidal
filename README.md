@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Joseph</h1>
 
-Toulousan since 1995, I love film photography, designing displays for my orchestra and making furniture.
+Toulousan since 1995, I love photography, designing displays for my orchestra and making furniture.
 
-- 🔭 I’m currently software engeneer at **Alten** on behalf **Airbus**
+- 🔭 I’m currently software engeneer at **Airbus** on behalf of **Alten** 
 - 💬 Ask me about :
 	- \*NIX systems
 	- UI/UX design
@@ -16,18 +16,19 @@ Toulousan since 1995, I love film photography, designing displays for my orchest
 - ☁️ My dream jobs :
 	- National Geographic photographer
 	- Doublebassist in orchestra
-	- Falconer
 	- Furniture designer
 - ⚡ Fun fact :
 	- I play double bass in a symphony orchestra
 	- I'm falconer
 	- I love planes
 	- I develop photos in my bathroom
+ 	- I work on the **Airbus**'s Final Assembly Line
 
 ## 👨🏻‍🎓 Education :
 
 |	School     | City | Level | Topic |
 |:------------:|:---------------:|:-------------:|---|
+| Regional Conservatory | Toulouse 🇫🇷 | 1C4 | Double bass/Music theory |
 | EPITECH | Barcelona 🇪🇸/Paris 🇫🇷 | Master's degree | Buisness management in information technology |
 | EPITECH | Toulouse 🇫🇷 | Bachelor's degree | Information and Technology |
 | High shcool of furniture crafts | Revel 🇫🇷 | High school diploma | Cabinet making and wood carving |
